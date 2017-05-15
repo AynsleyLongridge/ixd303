@@ -8,5 +8,5 @@
 ## Oblique Strategies
 For the Oblique Strategies I was feeling inspired by Camille Walala. As most people were creating a static background with changing cards I wanted to create a webpage that the background changed aswell as the cards. After a fair while fiddling with the javascript and getting it also to change card 'on click' I created some backgrounds with bold geometric prints and clashing colours.
 
-- [Moodboard](https://uk.pinterest.com/aynsley125/icons/)
+- [Moodboard](https://uk.pinterest.com/aynsley125/oblique-strategies/)
 - [Webpage](https://aynsleylongridge.github.io/obliquestrategies/index.html)
